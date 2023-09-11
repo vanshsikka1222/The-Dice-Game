@@ -1,0 +1,39 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #FFF5E0;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster';
+  text-shadow: 5px 0 #ff6969;
+  font-size: 8rem;
+  color: #141E46;
+}
+
+p {
+  font-size: 2rem;
+  color: #FF6969;
+  font-family: 'Audiowide', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #FF6969;
+  text-align: center;
+  font-family:'Audiowide', cursive;
+}
